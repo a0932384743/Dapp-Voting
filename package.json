@@ -1,0 +1,10 @@
+{
+  "name": "vote-contract",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "complie" : "truffle complie",
+    "migrate": "truffle migrate"
+  }
+}
